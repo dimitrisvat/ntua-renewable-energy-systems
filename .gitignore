@@ -1,0 +1,21 @@
+# MATLAB files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB generated files
+*.mat
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+
+# Figure files
+*.png
+
+# ZIP files
+*.zip   
